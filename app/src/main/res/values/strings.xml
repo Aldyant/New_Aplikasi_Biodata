@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Last Try</string>
+    <string name="NMIM">A11.2018.11046\nALDYANT\nWICAKSANA</string>
+    <string name="todo">TODO</string>
+    <string name="Hobi">Hobi</string>
+    <string name="hobby_desc">Main basket dan main game</string>
+    <string name="desc">Sedikit tentangku</string>
+    <string name="about">Ngerasa nggak pantes masuk unggulan karna sebenernya Telmi an orangnya.
+        \nTiap melajarin sesuatu yang pake Alur dan runtutan cara pengerjaan sering males.
+        \nLebih suka yang dipikir Spontan. Kecuali game yang pake strategi.</string>
+    <string name="alamat">cari tahu alamatku disini</string>
+    <string name="telpon">Coba Telfon saya</string>
+    <string name="email">Kirim Email juga boleh</string>
+</resources>
